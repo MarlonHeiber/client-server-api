@@ -1,4 +1,4 @@
-module local/cotacao
+module github.com/MarlonHeiber/client-server-api
 
 go 1.19
 
